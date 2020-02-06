@@ -11,6 +11,6 @@ Link to ShinyApp: https://naekoue.shinyapps.io/Healthcare/
 
 The datasets used provide the prevalence and spending costs of 21 chronic conditions and 210 dyads(combinations of two diseases).
 They were obtained from "https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/Chronic-Conditions/CC_Main"
-#and "https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/Chronic-Conditions/Co-morbidity"
+and "https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/Chronic-Conditions/Co-morbidity"
 
 
